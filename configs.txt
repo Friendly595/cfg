@@ -1,37 +1,11 @@
 [Interface]
-PrivateKey = WB5szrvrXEsyMgRsjYfgyu14Tpk+HZExEKKw8mD/6HM=
-Address = 10.8.0.15/24
+PrivateKey = ECIF90Ap1FBe+oIn8nBT9lTEDb7En+ZPnq1N7JwzNnY=
+Address = 10.8.0.2/24
 DNS = 1.1.1.1
 
 [Peer]
-PublicKey = PnhhfHrSOHQlooRWmto6Fk4a4L9FDjv1kKbmcJPwyXA=
-PresharedKey = IRPBLqVJp3IPwtwoVUeM1fwWxR1v+MF0FvGK479QtfA=
-AllowedIPs = 0.0.0.0/0, ::/0
-PersistentKeepalive = 0
-Endpoint = 37.220.83.26:51820
-
-
-[Interface]
-PrivateKey = WB5szrvrXEsyMgRsjYfgyu14Tpk+HZExEKKw8mD/6HM=
-Address = 10.8.0.16/24
-DNS = 1.1.1.1
-
-[Peer]
-PublicKey = PnhhfHrSOHQlooRWmto6Fk4a4L9FDjv1kKbmcJPwyXA=
-PresharedKey = IRPBLqVJp3IPwtwoVUeM1fwWxR1v+MF0FvGK479QtfA=
-AllowedIPs = 0.0.0.0/0, ::/0
-PersistentKeepalive = 0
-Endpoint = 37.220.83.26:51820
-
-
-[Interface]
-PrivateKey = WB5szrvrXEsyMgRsjYfgyu14Tpk+HZExEKKw8mD/6HM=
-Address = 10.8.0.17/24
-DNS = 1.1.1.1
-
-[Peer]
-PublicKey = PnhhfHrSOHQlooRWmto6Fk4a4L9FDjv1kKbmcJPwyXA=
-PresharedKey = IRPBLqVJp3IPwtwoVUeM1fwWxR1v+MF0FvGK479QtfA=
+PublicKey = fnSlyKHtFDj1rI3RqbPPCS6Qtrb+qTgZKC3G0ktOgms=
+PresharedKey = 5Exurh1e6GRAzPPfe4kyn68iprNkvB1DqKgeH3j4cWY=
 AllowedIPs = 0.0.0.0/0, ::/0
 PersistentKeepalive = 0
 Endpoint = 37.220.83.26:51820
